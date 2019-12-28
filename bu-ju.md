@@ -2,7 +2,7 @@
 
 ## Container
 
-只有 Container 具有边框，背景色等属性
+添加 padding、margins、borders、background color 或将其他装饰添加到 widget.
 
 ## Row
 
