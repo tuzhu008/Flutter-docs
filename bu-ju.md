@@ -20,11 +20,9 @@
 
 ## Stack
 
-
+可以允许其子 widget 简单的堆叠在一起
 
 ## Positioned
-
-可以允许其子 widget 简单的堆叠在一起
 
 
 
