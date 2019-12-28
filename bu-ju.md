@@ -2,7 +2,9 @@
 
 ## Container
 
-添加 padding、margins、borders、background color 或将其他装饰添加到 widget.
+添加 padding、margins、borders、background color 或将其他装饰添加到 widget。
+
+创建一个新的 `BoxConstraints` 来设置 `minWidth` 或 `maxWidth`。
 
 ## Row
 
