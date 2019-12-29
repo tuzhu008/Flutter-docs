@@ -34,3 +34,13 @@
 
 在Flutter中，widget由其底层的 [`RenderBox`](https://docs.flutter.io/flutter/rendering/RenderBox-class.html) 对象渲染。 渲染框由它们的父级给出约束，并且在这些约束下调整自身大小。约束由最小宽度、最大宽度和高度组成; 尺寸由特定的宽度和高度组成。
 
+通常，按照widget如何处理他们的约束来看，有三种类型的盒子：
+
+尽可能大。 例如
+
+* [`Center`](https://docs.flutter.io/flutter/widgets/Center-class.html) 和 [`ListView`](https://docs.flutter.io/flutter/widgets/ListView-class.html)  的渲染盒
+* 跟随子widget大小。 例如，[`Transform`](https://docs.flutter.io/flutter/widgets/Transform-class.html) 和 [`Opacity`](https://docs.flutter.io/flutter/widgets/Opacity-class.html)  的渲染盒。
+* 指定尺寸。 例如，[`Image`](https://docs.flutter.io/flutter/dart-ui/Image-class.html) 和 [`Text`](https://docs.flutter.io/flutter/widgets/Text-class.html)的渲染盒
+
+
+
