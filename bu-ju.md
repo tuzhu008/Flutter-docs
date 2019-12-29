@@ -39,7 +39,7 @@
 尽可能大。 例如
 
 * [`Center`](https://docs.flutter.io/flutter/widgets/Center-class.html) 和 [`ListView`](https://docs.flutter.io/flutter/widgets/ListView-class.html)  的渲染盒
-* 跟随子widget大小。 例如，[`Transform`](https://docs.flutter.io/flutter/widgets/Transform-class.html) 和 [`Opacity`](https://docs.flutter.io/flutter/widgets/Opacity-class.html)  的渲染盒。
+* 跟随子 widget 大小。 例如，[`Transform`](https://docs.flutter.io/flutter/widgets/Transform-class.html) 和 [`Opacity`](https://docs.flutter.io/flutter/widgets/Opacity-class.html)  的渲染盒。
 * 指定尺寸。 例如，[`Image`](https://docs.flutter.io/flutter/dart-ui/Image-class.html) 和 [`Text`](https://docs.flutter.io/flutter/widgets/Text-class.html)的渲染盒
 
 
