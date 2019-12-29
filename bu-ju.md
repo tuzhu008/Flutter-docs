@@ -32,7 +32,5 @@
 
 ## Flutter 盒子模型
 
-
-
-
+在Flutter中，widget由其底层的 [`RenderBox`](https://docs.flutter.io/flutter/rendering/RenderBox-class.html) 对象渲染。 渲染框由它们的父级给出约束，并且在这些约束下调整自身大小。约束由最小宽度、最大宽度和高度组成; 尺寸由特定的宽度和高度组成。
 
